@@ -1,5 +1,6 @@
 /*Import the Dataset */
 DATA AvgSleep;
+/* Replace with Local path */
     INFILE '"\\apporto.com\dfs\CLT\Users\dgovind1_clt\Desktop/AvgSleep.txt" ' DELIMITER='09'x DSD FIRSTOBS=2;
     INPUT
         Quan_Sleep $ 
