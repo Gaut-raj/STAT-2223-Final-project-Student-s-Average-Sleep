@@ -48,3 +48,4 @@ AvgSleep	StudyHours	RecHours	WorkBinary	WorkHours
 8+	16-20	5-8	Yes	1-5
 4-6	10-15	0-4	No	0
 6-8	6-10	5-8	No	0
+6-8 6-10 5-8 Yes 11-15
